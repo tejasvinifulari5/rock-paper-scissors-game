@@ -17,7 +17,8 @@ A modern and responsive Rock Paper Scissors game built using:
 
 ## Preview
 
-(Add screenshot here later)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/e39f1745-fd79-4c5f-aa90-c7f59dcf4878" />
+
 
 ## Live Demo
 
